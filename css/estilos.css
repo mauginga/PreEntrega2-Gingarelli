@@ -96,12 +96,12 @@ nav{
 p {
     width: auto;
     height: 300px;
-    overflow-y: hidden;
+    overflow-y: scroll;
     color:#F2E7D5;
     font-weight: lighter;
     font-family: 'Varela Round', sans-serif;
     font-style: italic;
-    font-size: 25px;
+    font-size: 18px;
     text-align: justify;
     position: center;
     padding: 30px 70px 50px 50px;
